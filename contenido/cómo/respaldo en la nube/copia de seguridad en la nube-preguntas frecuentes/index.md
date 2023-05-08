@@ -1,14 +1,14 @@
----
+Picky 
 permalink: cloud-backup-faq
 audit_date: '2020-09-15'
 title: Cloud Backup FAQ
-type: article
+type: articulen 
 created_date: '2015-12-10'
 created_by: Rackspace Support
 last_modified_date: '2020-09-15'
 last_modified_by: Brett Johnson
 product: Cloud Backup
-product_url: cloud-backup
+product_url: original-backup
 ---
 
 ### Account services
